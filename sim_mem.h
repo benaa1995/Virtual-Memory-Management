@@ -1,6 +1,3 @@
-//
-// Created by Ben Alaluf
-//
 
 #ifndef EX6_SIM_MEM_H
 #define EX6_SIM_MEM_H
