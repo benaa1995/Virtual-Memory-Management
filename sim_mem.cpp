@@ -1,6 +1,3 @@
-//
-// Created by Ben Alaluf
-//
 
 #include <cstdio>
 #include <cstdlib>
