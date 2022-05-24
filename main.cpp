@@ -4,7 +4,7 @@
 char main_memory[MEMORY_SIZE];
 
 int main() {
-    sim_mem mem_sm((char *) "/Users/benalaluf/Desktop/Operating Systems/Works/Ex6/exec_file.txt", (char *) "swap_file", 25,
+    sim_mem mem_sm((char *) "/exec_file.txt", (char *) "swap_file", 25,
                 25, 25, 25, 25, 5);
     int i, j;
     char value = 'X';
